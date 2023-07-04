@@ -1,5 +1,5 @@
 <a href="https://peregrinusss.github.io/">
-  <img src="[https://cloud.githubusercontent.com/assets/screenshot.jpg](https://github.com/peregrinusss/peregrinusss/blob/main/peregrinusss.svg)" width="100%">
+  <img src="https://github.com/peregrinusss/peregrinusss/blob/main/peregrinusss.svg" width="100%">
 </a>
 
 
