@@ -2,12 +2,18 @@
   <img src="https://github.com/peregrinusss/peregrinusss/blob/main/peregrinusss.svg" width="100%">
 </a>
 
+# Frontend Developer
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<h2 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
+## Languages and Tools :
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
+![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3)
+![FlexBox](https://img.shields.io/badge/-FlexBox-090909?style=for-the-badge&logo=css3)
+![Grid](https://img.shields.io/badge/-Grid-090909?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap)
+![Bulma](https://img.shields.io/badge/-Bulma-090909?style=for-the-badge&logo=bulma)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
+![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=react)
+![Svelte.js](https://img.shields.io/badge/-Svelte.js-090909?style=for-the-badge&logo=svelte)
+![TS](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
