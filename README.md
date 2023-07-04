@@ -1,19 +1,7 @@
-<h1 style="color: #5cc889;
-           font-family: Arial;
-           font-size: 80px;
-           animation-name: gradient;
-           animation-duration: 10s;
-           animation-iteration-count: infinite;
-           letter-spacing: 10px;
-           text-transform: uppercase;
-           text-shadow:
-             0 0 30px #5cc889,
-             0 0 55px #5cc889,
-             0 0 80px #5cc889;">
-  peregrinusss
-</h1>
+<a href="https://peregrinusss.github.io/">
+  <img src="[https://cloud.githubusercontent.com/assets/screenshot.jpg](https://github.com/peregrinusss/peregrinusss/blob/main/peregrinusss.svg)" width="100%">
+</a>
 
-![Image alt](https://github.com/peregrinusss/peregrinusss/blob/main/peregrinusss.svg)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
