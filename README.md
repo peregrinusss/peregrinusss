@@ -14,3 +14,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
 ![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=react)
 ![TS](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
+
+## Contact
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/peregrinusss)
+[![YMail](https://img.shields.io/badge/-Yandex%20Mail-090909?style=for-the-badge&logo=Gmail)](mailto:Daniellly@yandex.ru)
