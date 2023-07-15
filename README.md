@@ -1,7 +1,7 @@
 <a href="https://peregrinusss.github.io/" target="_blank">
   <img src="https://github.com/peregrinusss/peregrinusss/blob/main/peregrinusss.svg" width="100%">
 </a>
-<span align="center">(the banner is clickable)</span>
+<div align="center">(the banner is clickable)</div>
 
 # Frontend Developer
 
