@@ -1,5 +1,5 @@
 <a href="https://peregrinusss.github.io/" target="_blank">
-  <img src="https://github.com/peregrinusss/peregrinusss/blob/main/peregrinusss.svg" width="100%">
+  <img src="https://github.com/peregrinusss/peregrinusss/blob/main/logo.png" width="100%">
 </a>
 <div align="center">(the banner is clickable)</div>
 
